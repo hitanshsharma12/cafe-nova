@@ -127,7 +127,7 @@ export function Hero() {
               <div className="flex items-center gap-2">
                 <span className="text-lg">🥚</span>
                 <div>
-                  <p className="text-sm font-semibold text-foreground">Eggless</p>
+                  <p className="text-sm font-semibold text-foreground">NonVeg</p>
                   <p className="text-xs text-muted-foreground">Available!</p>
                 </div>
               </div>
