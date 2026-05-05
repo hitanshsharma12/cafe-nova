@@ -52,7 +52,7 @@ export function VisitSection() {
             whileInView={{ opacity: 1, x: 0 }}
             viewport={{ once: true }}
             transition={{ duration: 0.6 }}
-            className="relative aspect-[4/3] lg:aspect-auto lg:h-full min-h-[400px] rounded-2xl overflow-hidden shadow-lg"
+            className="relative h-[300px] md:h-[350px] lg:h-[400px] rounded-2xl overflow-hidden shadow-lg"
           >
             <iframe
   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3088.2948779013727!2d77.7559137!3d31.201970000000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3905fbc61154a5ab%3A0xff72c0134171ed5c!2sCafe%20Nova!5e1!3m2!1sen!2sin!4v1777966360368!5m2!1sen!2sin"
